@@ -1,5 +1,12 @@
 # Changes
 
+## [1.62.0](https://github.com/googleapis/google-cloud-go/compare/spanner/v1.61.0...spanner/v1.62.0) (2024-05-02)
+
+
+### Features
+
+* **spanner:** Add `RESOURCE_EXHAUSTED` to the list of retryable error codes ([1d757c6](https://github.com/googleapis/google-cloud-go/commit/1d757c66478963d6cbbef13fee939632c742759c))
+
 ## [1.61.0](https://github.com/googleapis/google-cloud-go/compare/spanner/v1.60.0...spanner/v1.61.0) (2024-04-30)
 
 
