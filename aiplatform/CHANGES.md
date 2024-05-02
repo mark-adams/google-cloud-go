@@ -1,6 +1,22 @@
 # Changes
 
 
+## [1.68.0](https://github.com/googleapis/google-cloud-go/compare/aiplatform/v1.67.0...aiplatform/v1.68.0) (2024-05-02)
+
+
+### Features
+
+* **aiplatform:** A new field `search_entry_point` is added to message `.google.cloud.aiplatform.v1beta1.GroundingMetadata` ([ae42f23](https://github.com/googleapis/google-cloud-go/commit/ae42f23f586ad76b058066a66c1566e4fef23692))
+* **aiplatform:** A new value `TPU_V5_LITEPOD` is added to enum `AcceleratorType` ([#10074](https://github.com/googleapis/google-cloud-go/issues/10074)) ([7656129](https://github.com/googleapis/google-cloud-go/commit/7656129e1cffbfb788d849f3b35c28c7ac69054f))
+* **aiplatform:** Add model_monitor resource and APIs to public v1beta1 client library ([#9755](https://github.com/googleapis/google-cloud-go/issues/9755)) ([8892943](https://github.com/googleapis/google-cloud-go/commit/8892943b169060f8ba7be227cd65680696c494a0))
+* **aiplatform:** Add NotebookExecutionJob resource and APIs to public v1beta1 client library ([1d757c6](https://github.com/googleapis/google-cloud-go/commit/1d757c66478963d6cbbef13fee939632c742759c))
+
+
+### Bug Fixes
+
+* **aiplatform:** Bump x/net to v0.24.0 ([ba31ed5](https://github.com/googleapis/google-cloud-go/commit/ba31ed5fda2c9664f2e1cf972469295e63deb5b4))
+* **aiplatform:** Delete the deprecated field for model monitor ([1d757c6](https://github.com/googleapis/google-cloud-go/commit/1d757c66478963d6cbbef13fee939632c742759c))
+
 ## [1.67.0](https://github.com/googleapis/google-cloud-go/compare/aiplatform/v1.66.0...aiplatform/v1.67.0) (2024-04-08)
 
 
